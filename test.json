@@ -1,0 +1,48 @@
+{
+
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-1
+         "config": "NUqQ+VcliS/2kAUQ/hcLYrOfdgOs4OzBv4XpaQl8dZYxGUri+VzbZ1E4lEs1+MfMwZCJ9jJkcFKpvhRL0W1QMXpQIqTo6seQAeTqtv8CTqwLHO+Bupyd9Zc1oK2sjRbQgksrQW05p0wODgpAxe5Vw5G1NOa4f0gW0XYBSxRWl4E8eaZ0F+81RxKDxHzmNm6vuthsnz7R7/SfpLZwdOeT6A=="
+     
+},
+{
+        //server-2
+      "config": "xEcj4zPjU6eDzfwc4HVGFfLIsMRnmxtmfPyQYaN0amB2055Ftd7seELeIcnYmik2jPn2V4b6pnT5ejMedQKlzOEfCRsLGQu0y6gE68idIYo7j0bA4LFklbUmNdhB0Qyg5336H/rRlIjkuJLohNKDa90qFe20omz/vWRsmBD4juBh7XShyScBvpZ6ByO6quFFcz/3VpnVRiyJT6hBPZ5YDg=="
+      
+      },
+
+{
+        //server-3
+      "config": "jhrdo7iakNzFbPcngNuVPa5TjLVneaagezfs5KQ/g2/O1y77ewG4mQcjWUpW6m7Vin4RfZ5eURdvGSooKBJPm8BA5EjRZ5u/DWqdEMpT7WjDvNvCzAOpEFLVEFKjcmBQIq6m/phiM7StATDWOngiNFAsOUEfWLCxgDvHArMMN/Q3lnF2oSBkUTJNS+5uan9nsdwrHFJjdZLxOfBlXbpQoQ=="
+      
+      },
+
+{
+        //server-4
+      "config": "+cNa5B0TyB+n26HBGHfEeteKWACrTWi1S2Bd+IW+cArw/gCaT6DBuZGgED/cuKtmUUuMbEZDuWHpkebGtWeIRSvxbX2BjIFF4eFEDe+vPOpkRSnwmrKJiTbGpFhCHkJhtu2gDoaEaVAb4sze2cLEdK2DIGKFWxt/dKy6UeQFIHOyzOlKgpcLMJv5UNO2aPuLFiQ+4n6PAvJjLnP/AxwUNA=="
+      
+      },
+
+{
+        //server-5
+      "config": "qsKTjqX9Z5ZXLCBzMmoVcQVHO2H3Mnn3T3lGH0bok4Tm98JWbvnuWZMgud3X6vI22HwgYDEzjmRYmFOrwrtYRnfpRBYLFQYgRMJ3gITxFwX6wrV1uVA7Q19p9QRcfJwNTZOOKWLyHIfDU2Zczk4TtsZRuAGUTIf3gk2nSATk+vodEWReHOpE/cF6teU42RUHFRSZH2PZ5iKWgX0cor68aA=="
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်... ပရိုမိုးရှင်း မလိုပါ။ ဘေ ( 0 ) နဲ့ချိတ်ပါ ",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်... ပရိုမိုးရှင်း မလိုပါ။ ဘေ ( 0 ) နဲ့ချိတ်ပါ "
+
+
+
+}
