@@ -1,6 +1,6 @@
 {
 
-"version": 1,
+"version": 2,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -31,6 +31,18 @@
 {
         //server-5
       "config": "qsKTjqX9Z5ZXLCBzMmoVcQVHO2H3Mnn3T3lGH0bok4Tm98JWbvnuWZMgud3X6vI22HwgYDEzjmRYmFOrwrtYRnfpRBYLFQYgRMJ3gITxFwX6wrV1uVA7Q19p9QRcfJwNTZOOKWLyHIfDU2Zczk4TtsZRuAGUTIf3gk2nSATk+vodEWReHOpE/cF6teU42RUHFRSZH2PZ5iKWgX0cor68aA=="
+      
+      },
+
+         {
+        //server-6
+      "config": "AdolyEIF0ccBxdGu5GgNef4KzsigElYeXR9EIXJDaYlazm6uFUGcdhwCP6PFtaoAR8ale690GWi21BrzhNtdGyQqwVW0CLoH0mEhNtUWI6puPWLbwpjmJgnzVwqn+erR8o8/FkNvdrHEKHlEZ27Ln6b/AVEZoe9YrrdqAoEZDGa0fFe+8hy++lJceUhQteEvAEyvm9UpVtb22YIetP3MrQ=="
+      
+      },
+
+{
+        //server-7
+      "config": "rMepvvI7198q9HFJZxi1KR6toWHBIMtTFIZKoc+SiwJSIN1WG/yn8cSu6Gvqf1Efc4IqZVgriXotEAaBSg/rtFyjMUreNV5rzHdlYhP3Gdu4GYglbTmweroG8DxQwkWNiFjHpLfo1/aWCmB2cfji9oqSQXDQA5D8h5IjuhERQS2G27oBpWLrRlZjEP3ZsCcjXwsCkE2zrZuT/wLyLbMQHQ=="
       
       }
       
