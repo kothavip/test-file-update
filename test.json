@@ -1,7 +1,7 @@
 {
 
-"version": 2,
-"message": "What's new \nAdded new server",
+"version": 3,
+"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n VIP 04 ဖိုင်ကို ပြန်ပြင်ပေးထားပါတယ်။ \n စိတ်ကြိုက်အသုံးပြုလို့ရအောင် ဖိုင်အသစ် 3ဖိုင် ထက်တိုးပေးလိုက်ပါပြီ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
 
 "files": [
 
@@ -24,7 +24,7 @@
 
 {
         //server-4
-      "config": "+cNa5B0TyB+n26HBGHfEeteKWACrTWi1S2Bd+IW+cArw/gCaT6DBuZGgED/cuKtmUUuMbEZDuWHpkebGtWeIRSvxbX2BjIFF4eFEDe+vPOpkRSnwmrKJiTbGpFhCHkJhtu2gDoaEaVAb4sze2cLEdK2DIGKFWxt/dKy6UeQFIHOyzOlKgpcLMJv5UNO2aPuLFiQ+4n6PAvJjLnP/AxwUNA=="
+      "config": "Qxvan5li8MblWShEzlUSFuFxZxeWUr0Fs9Kxj6GBpS9W0cSe/gacd1dGdwmzHhvvZfmaGqQ4QIMQwdYc0olWkEMLfQiPrKad+/9ROD+3WfRT3r6X29oCaLLXUXFbmJEOuTp9/s9PxAeqLbTDsf4kWZi6LyqR1xLzrGEKC/jz9N9PWbIXNonRRUEOmQtTqHz2RFoIc3Inj7jmt2CiEz1jRw=="
       
       },
 
@@ -44,11 +44,35 @@
         //server-7
       "config": "rMepvvI7198q9HFJZxi1KR6toWHBIMtTFIZKoc+SiwJSIN1WG/yn8cSu6Gvqf1Efc4IqZVgriXotEAaBSg/rtFyjMUreNV5rzHdlYhP3Gdu4GYglbTmweroG8DxQwkWNiFjHpLfo1/aWCmB2cfji9oqSQXDQA5D8h5IjuhERQS2G27oBpWLrRlZjEP3ZsCcjXwsCkE2zrZuT/wLyLbMQHQ=="
       
-      }
+      },
+
+         {
+
+        //server-8
+
+      "config": "s+QJs15DHByjK1f38OjPSG3F/DV//BrlABkt0xpS9/eKwtEkWm+JWpYiREKq6YyvKpKLdyzN7fzktSzSTCJDuSwqegPaiNHvlhATYarm0/aHAMexvBej4E2T15ThSgAVrJ2OP7EOYG+Af+4Mtwo5gaTRE+CQ2YEx19BhlBqlaHmQ5ZfnMd6uhO6Cm3gmQ/rz/E++wzJ0qIHPmo60KMb0vQ=="
+
+      },
+
+{
+
+        //server-9
+
+      "config": "mCH48XyXMcfsQorZHGncNcHlb3AgVWj7LqpfhAHJmK1azG9uzhJn/tW+P+31HbkgE3xS2GlipRtKeGxu91kMrUaJXdLEPudCuzaIbU++80XadpMrYYt/Pz5AhBL+Mn14tQnuZ5/ejZorh7FncK9UOP0Ks7C8ACQ2tW52JDdfxTsgzbPPpS0eOZwMNL7h/5MVsEWCR08tWZjDC2dKdU/D7w=="
+
+      
+      },
+
+{
+
+        //server-10
+
+      "config": "1eSLxY78KPV7HUm6fUhE97IlzV94oV0ffYmRbqNqQoXY5NlCLazMI8zfVQzXcaTOhEgSDOK+TGzVP1d9hWqEKzHu3E9cG3n0YcUGs6DIfH5c5jrpYxHdYcb7gI3w2lNcbkspCATDdqaAgvkyQ5lI3ibrA2655CFO02QDcB3TfEp6IlwtFZ4N05tauTf1ClqoYutX+AI7b6JrEcpLwgp9E8ZJAPE="
+
+}
       
 
    ],
-
 
 
 "dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်... ပရိုမိုးရှင်း မလိုပါ။ ဘေ ( 0 ) နဲ့ချိတ်ပါ ",
