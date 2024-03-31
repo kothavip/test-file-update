@@ -1,7 +1,7 @@
 {
 
-"version": 3,
-"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n VIP 04 ဖိုင်ကို ပြန်ပြင်ပေးထားပါတယ်။ \n စိတ်ကြိုက်အသုံးပြုလို့ရအောင် ဖိုင်အသစ် 3ဖိုင် ထက်တိုးပေးလိုက်ပါပြီ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
+"version": 4,
+"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n GAME သီးသန့်ဖိုင် ထည့်ပေးလိုက်ပါပြီ။ ဂိမ်းဆော့မှ ချိတ်သုံးပါ။ \n VIP 04 ဖိုင်ကို ပြန်ပြင်ပေးထားပါတယ်။ \n စိတ်ကြိုက်အသုံးပြုလို့ရအောင် ဖိုင်အသစ် 3ဖိုင် ထက်တိုးပေးလိုက်ပါပြီ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
 
 "files": [
 
@@ -69,7 +69,13 @@
 
       "config": "1eSLxY78KPV7HUm6fUhE97IlzV94oV0ffYmRbqNqQoXY5NlCLazMI8zfVQzXcaTOhEgSDOK+TGzVP1d9hWqEKzHu3E9cG3n0YcUGs6DIfH5c5jrpYxHdYcb7gI3w2lNcbkspCATDdqaAgvkyQ5lI3ibrA2655CFO02QDcB3TfEp6IlwtFZ4N05tauTf1ClqoYutX+AI7b6JrEcpLwgp9E8ZJAPE="
 
-}
+},
+
+         {
+        //server-11
+      "config": "5p6gd7eqtZgyNOreu3+vMlu93HSevVTAhl57dFeyZpKu4G9kivfBtoJZvMSpr0V5Rt1Jnkbqp1z3+WzGpeikCMoXbVFxNCbBwm7antzed1I6DxetGqu/IHfs/O310shHPkb5QmoZaeA5vZAqfWaP9gI2L5bLPipBCDPXPvhxeyNnkBFLx4VryT1JHDCwILSu6OG2vvMMKgm/HvFFNgQMl8vfJUkmULGYQvMV7MZlw/kAs/vOEqhRpWQ8yis+ewxePJgsd21nz6QrPyKBTi2DKuz7IGTN+ke/WnD1LIIFIsPyKyV1F2SBNu/gnJR9DbgU4qvEn870HXl+eAOEVJ326wmTeb1Z7NydaISzS0/YPdJdsdwJ5/tvUpAnVFeJgIWvEuVlO+UjwsisXKcAZrHa04+sIJzWEddC1yeXVqPYUZFK47HldVhMwaPJSN9vnEtM0ZQd/gOZZujGozWh"
+      
+      }
       
 
    ],
