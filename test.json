@@ -1,7 +1,7 @@
 {
 
-"version": 4,
-"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n GAME သီးသန့်ဖိုင် ထည့်ပေးလိုက်ပါပြီ။ ဂိမ်းဆော့မှ ချိတ်သုံးပါ။ \n VIP 04 ဖိုင်ကို ပြန်ပြင်ပေးထားပါတယ်။ \n စိတ်ကြိုက်အသုံးပြုလို့ရအောင် ဖိုင်အသစ် 3ဖိုင် ထက်တိုးပေးလိုက်ပါပြီ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
+"version": 5,
+"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n GAME သီးသန့်ဖိုင် 5ဖိုင် ထည့်ပေးလိုက်ပါပြီ။ ဂိမ်းဆော့မှ ချိတ်သုံးပါ။ \n VIP 04 ဖိုင်ကို ပြန်ပြင်ပေးထားပါတယ်။ \n စိတ်ကြိုက်အသုံးပြုလို့ရအောင် ဖိုင်အသစ် 3ဖိုင် ထက်တိုးပေးလိုက်ပါပြီ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
 
 "files": [
 
@@ -71,12 +71,55 @@
 
 },
 
-         {
+      {
+
         //server-11
-      "config": "5p6gd7eqtZgyNOreu3+vMlu93HSevVTAhl57dFeyZpKu4G9kivfBtoJZvMSpr0V5Rt1Jnkbqp1z3+WzGpeikCMoXbVFxNCbBwm7antzed1I6DxetGqu/IHfs/O310shHPkb5QmoZaeA5vZAqfWaP9gI2L5bLPipBCDPXPvhxeyNnkBFLx4VryT1JHDCwILSu6OG2vvMMKgm/HvFFNgQMl8vfJUkmULGYQvMV7MZlw/kAs/vOEqhRpWQ8yis+ewxePJgsd21nz6QrPyKBTi2DKuz7IGTN+ke/WnD1LIIFIsPyKyV1F2SBNu/gnJR9DbgU4qvEn870HXl+eAOEVJ326wmTeb1Z7NydaISzS0/YPdJdsdwJ5/tvUpAnVFeJgIWvEuVlO+UjwsisXKcAZrHa04+sIJzWEddC1yeXVqPYUZFK47HldVhMwaPJSN9vnEtM0ZQd/gOZZujGozWh"
+
+      "config": "gia8J20yJ/vOIF404XF4/VDbBE/MsGZLjr8Xxof3gqCqqxIC2z4lDiAZvnta+yQgBNcEKg6EVKF11nkPZSvNxq6zoTycwK1P//QOnRO4o6eIlTnsca1h2JIi9v9HAtJGIW1yd/NoTv2aJbNqeA8GI54Q2wmMyH+bFFcvaKSeLvXVdUQEAmwVqU8oGFDvFCLwaATEhszKozU="
+
       
-      }
+
+      },
+
+{
+
+        //server-12
+
+      "config": "7ud0VbbtRqO4il/CXxFUbtpYeU0X8Ps7pEcJ4Uh0cxSLqK17UDkaampkOMUhLXP9X6Ai6NSsJleC2MAlzR81ibGKPgCOaY2ryM3DiTwR47LoY4yB78jgGXGe8XC5azbje6vtq+Hc1trud1qKJ1lDlQVqYB2KlrXooG62cGI07YratT8lFqvANWU1+he6WhKU5sh8u1WSYCo="
+
       
+
+      },
+
+{
+
+        //server-13
+
+      "config": "hrCAN6etIQsexDlcDe5ymiWGreygVbyV7RUdbW/79uebcj6BrNP08zT6pcDj9CFDpEwok4uBC3YsXTXftqTMfZgk5mhyZC/0et4RyHWbKcvqZkg0Uis/IkOKaop0nymrhVa3BEwiMlhICyqdc/91rURpjh8f3eGwxrWjZ3LqSkUT/qgJY2dtNrZfoW5ttd+sOLqKBrTGVLU="
+
+      
+
+      },
+
+{
+
+        //server-14
+
+      "config": "xLL4gkyL+nVMdfwuACHOowG3FRGDbWfWmA5M4ll8fD23w1mqtIhXrr7TqZdkDnhDr7nZJHvCErjUVnSgxmt3TL1lfWTeHS5O27T1hpWqIqpO7/E+d2PfBLjKdez//eukQWNhEzLH7B9d8YUmvKaCkgstY22tZH5lgP16zfpV9ZM8bfBWuFMeseyZqTSoPCwaPizrChcdKwk="
+
+      
+
+      },
+
+{
+
+        //server-15
+
+      "config": "6karrzaIdP7NUBJrmGh1GCCDC02KpWOg5HcRqT4LRvmheQF1JDeB+wJkT8piDR+II5M39hBSjWkaUR9/2N2FzlY1yr0r1oGtXbS5JlEEKDjmLw661op/kSTJyNzEm490NJ3PfGUV1fV01FRVkRGr67em4lT1ZAtgfYmmog2jkS+K9iW1Bqw5EcD47z9TbvZ++fCgA/L4w6A="
+
+      
+
+}
 
    ],
 
