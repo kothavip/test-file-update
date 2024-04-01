@@ -1,7 +1,7 @@
 {
 
-"version": 6,
-"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n ဆာဗာ အသစ် 5ဖိုင် ထည့်ပေးလိုက်ပါပြီ။  \n VIP နေ့တိုင်းရောင်းပါတယ်။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
+"version": 7,
+"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n Dtac Nopro 60GB တစ်ဖိုင်ထည့်ပေးလိုက်ပါတယ်။  \n ဆာဗာ အသစ် 5ဖိုင် ထည့်ပေးလိုက်ပါပြီ။  \n VIP နေ့တိုင်းရောင်းပါတယ်။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
 
 "files": [
 
@@ -98,7 +98,27 @@
         //server-15
       "config": "09yU1R58162RWYbVulhkVGfhTzGWWU1F3zafJX01BBXUFtw7ur87J9FoLBPSFMg2mVPXF8ND8oFaD7LRV4XzeaGdiC3VK/R+A8014sutuUavNotsml8eQ6aN/noVLJZ6mlNkbU2NUEezKi0Iyr31CzE2TkLbg35Tv7Rwokb7K6ChWmUUR+8HcM6ILbHxdfUEnz9LXxnW4FE="
       
-      }
+      },
+
+         {
+
+         //server-16
+
+         "config": "VfYdMzotRcyJarvW+ozqojwfkp9bJ9ngSMrWwQwVaB7FI5v6ymSiSXGJvB3bQAnn8A+TwqopnnvmVst3CkKtIr40lkzN3e45ovycUSHKBPplGryPQnRqYzGJ9yoepFW3ikl85w6251uFU9iZAWLnlYu04dAAKIdzmCv8e4NT6tlGobs51YpsvTXVr0j1h3nhY2g6xZ95T4vU+ARr"
+
+     
+
+},
+
+{
+
+         //server-17
+
+         "config": "SHNwSsPS9fv0xKJsKHstF53g1EO02WFZRhLRL94gBQV6F1L9A9aREQIPQ4cw2/goAwC9A68nAm1daJAgj32BX6o0G+HVlXkxZ0w3TERCM3/Z3G1g55z9ymOSJDbILXKQP9WJisPZxCDgDdzUyHngBP+sUaFTT/F11Ooh+mp83PYO9A9Ra8texhu/vYJxn+YWZYLEDJywondB8QWlNUJWnmkf25sXmqJjue1ul1W3EUUbagBl"
+
+     
+
+}
 
    ],
 
