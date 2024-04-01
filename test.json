@@ -1,7 +1,7 @@
 {
 
-"version": 7,
-"message": "ဘာတွေပြင်ထားလဲဆိုရင် \n Dtac Nopro 60GB တစ်ဖိုင်ထည့်ပေးလိုက်ပါတယ်။  \n ဆာဗာ အသစ် 5ဖိုင် ထည့်ပေးလိုက်ပါပြီ။  \n VIP နေ့တိုင်းရောင်းပါတယ်။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
+"version": 8,
+"message": "ဘာတွေပြင်ထားလဲ...? \n ဆာဗာ အသစ် 11ဖိုင်ကို Game သမားတွေ အကြိုက် ပြင်ပေးလိုက်ပါပြီ။ \n ဆာဗာ အသစ်...🚀📶 Good speed 🚀📶  \n VIP နေ့တိုင်းရောင်းပါတယ်။ \n 30 ရက် 70B အကန့်အသက်မရှိအကြိုက်သုံးပါ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
 
 "files": [
 
@@ -97,35 +97,82 @@
 {
         //server-15
       "config": "09yU1R58162RWYbVulhkVGfhTzGWWU1F3zafJX01BBXUFtw7ur87J9FoLBPSFMg2mVPXF8ND8oFaD7LRV4XzeaGdiC3VK/R+A8014sutuUavNotsml8eQ6aN/noVLJZ6mlNkbU2NUEezKi0Iyr31CzE2TkLbg35Tv7Rwokb7K6ChWmUUR+8HcM6ILbHxdfUEnz9LXxnW4FE="
+{
+         //server-1
+         "config": "VfYdMzotRcyJarvW+ozqojwfkp9bJ9ngSMrWwQwVaB7FI5v6ymSiSXGJvB3bQAnn8A+TwqopnnvmVst3CkKtIr40lkzN3e45ovycUSHKBPplGryPQnRqYzGJ9yoepFW3ikl85w6251uFU9iZAWLnlYu04dAAKIdzmCv8e4NT6tlGobs51YpsvTXVr0j1h3nhY2g6xZ95T4vU+ARr"
+     
+},
+{
+        //server-2
+      "config": "yrlU1NNZFjzp1jAomLdQB1W5ChrJpfcUEh/g1siBZ/k56b+LGzR0HQCdskAMGX1At2OUN6S+yfWcl12eHONnNozaNoWxUgIpiCqhd3e6U76yiOjH22Wn2Qxi/jDUC3W7xTpaUp0j9r3DU/O84YTzQQ1pSNg1f0ZIfGEfIlfTz+yiF0MXyP9OIho/bd5xXN1cToQJD3/f59hNQ0Q4"
+      
+      },
+
+{
+        //server-3
+      "config": "mhu3iw1RLCzG+TsFWouUxXFsPX+6Div7byGWobQs9Gb9IkAU/CZ4GRfTYA6qjZigDDhbWB59AVESPc7Y9orqndG8KRkIF5kBMHtdOlg89Lw2TdCI2xXaNspI6pGy/5Qa+6cRCOVfv54LoTC0+Fzi0vZNld70eD2s30Hebiou3cVPuyaQzPrbJ9fltwI2WrJzz/ObeAkzUxKBihBE"
+      
+      },
+
+{
+        //server-4
+      "config": "6hx4u53iR+PgEd3ia4PqH2gyrYelgStWcyRQVwXdiCpZOn3d0F+Gf7XAKnEBtYeClTp9nt9y2X0Upuv0syPQMkUt97fLOd61bpPAdxh8FXgZonYyxGynFBf2hIvo7DxwnhJuf1QnA+FGGX5xjPSKJ4I7b4unw3OaX9IkAFgTyQJL/Mw0d4hDuYxz2oehwp7REuqFqbsS/YAakg4PSZ6bgw=="
+      
+      },
+
+{
+        //server-5
+      "config": "FKCbtyTFpmohbHfEtr45tC/rCQEakVZthF4pwuSxbHj3ZA+akIBzR3R6/mSYLqVV6Q+vYAI/aY3639tV1Thk966fNqEsurj2sOQmEL7qyJG3+Y8/M2PZDRGCCRVe2fmODaeT0swfI/MPlu/xdp68giILr0VNlDGYq97Zneti+8aEet3ArgIGSKUIdDDS73evIwo1FmdsoyfIXDpt"
+      
+      },
+
+         {
+        //server-6
+      "config": "dq6p2nnKG6LNfxDm4BaD0wA8XmW077NZiNHWvF5UW1AxWt9BRHlfGpGEr+rHlOgSucVhEzx6Tvq8e89Fdd9LQN2qbrD6KXyBDjOi5LZZ/m1PEow0WsnJ59Hb0v8gpH/39Gcs1KhPor+dmq7e/kJtL67nynCPMdBi+aa5lXhPcdUXrrzFPmSlJPGeuMoHMjB15aJhfitZ7Mg+l1Dq"
+      
+      },
+
+{
+        //server-7
+      "config": "92+cBA46gO9hqT0fRLoook6Ndvpmip36bxKHpSYW1RpOXAFFNr+F95CYY0r17/T92E2DBNQVdorf9SCfZxz4OsTvCw2c7DYYcb5Yx6eOjJ7MYvFIq6JfUW0JH8r1pCH9tzf1Tq/dECL/TISppFEoCtzE4yUDe1wWUSByPWMbU3xIR4c296s3pvR+2Vtugql92aOLwOjpUSjw0FkQpwVegw=="
       
       },
 
          {
 
-         //server-16
+        //server-8
 
-         "config": "VfYdMzotRcyJarvW+ozqojwfkp9bJ9ngSMrWwQwVaB7FI5v6ymSiSXGJvB3bQAnn8A+TwqopnnvmVst3CkKtIr40lkzN3e45ovycUSHKBPplGryPQnRqYzGJ9yoepFW3ikl85w6251uFU9iZAWLnlYu04dAAKIdzmCv8e4NT6tlGobs51YpsvTXVr0j1h3nhY2g6xZ95T4vU+ARr"
+      "config": "Bw9ASqsH8eaGxSR0KHysKxztiJEnCfCu3sAEHxq0VXIuIlWq8hPc17UtcSMiJSk3xhI8X9qb4azHjCd1V+yA0/lbgd9uS9kEH11I2ZLEWaxW8UHeZQSyls8XSTAr1XliFF+owMd1L1voMmjBkDisUJQfjE8aZS8sVf5vrpXQiH/4U5PUHzjJ7VTe5aF82j2vchX17nlAnTKMJxQN4+q5/g=="
 
-     
-
-},
+      },
 
 {
 
-         //server-17
+        //server-9
 
-         "config": "SHNwSsPS9fv0xKJsKHstF53g1EO02WFZRhLRL94gBQV6F1L9A9aREQIPQ4cw2/goAwC9A68nAm1daJAgj32BX6o0G+HVlXkxZ0w3TERCM3/Z3G1g55z9ymOSJDbILXKQP9WJisPZxCDgDdzUyHngBP+sUaFTT/F11Ooh+mp83PYO9A9Ra8texhu/vYJxn+YWZYLEDJywondB8QWlNUJWnmkf25sXmqJjue1ul1W3EUUbagBl"
+      "config": "gdMOlkuwpJXueElrrQgR5d4xdedIVFcIHNKgY45uuD32BkUAweSX1hBMgCiZrPXq8k5H+6IFKyGU+7uCJbHV0/qWN1AIdlVVbcY6oH2wc0nlHf3Os4g0BeQSie0lkAr90h6CZebnZR1AyV+zojm6Fw6jkSiUACC8uZU5k5cHbLwcC8aa+Q3McWLKj6Wc1eFiWrlAaTdB0afi6HLI"
 
-     
+      
+      },
 
-}
+{
 
+        //server-10
+
+      "config": "/klEKnoGC29qPQNKmxSqm3uCvml8vg7R5xwPdFuT3rya7mysOLPhuDi+VPpA+bfNA3nhPEjN//hIvaXQXwuW2zvMuYVU2DRvkh4xZaerN2uTQqgS9M2ekP9SA8ovAO8tvobdEg6u6FGSIcCST6uA1BfU8zigYUsTGf2tRUDZ5raQ9nsG3r8PFTNP7CodkOnXVicAlDPQVbbvOtYOAlJHTg=="
+
+},
+{
+        //server-11
+      "config": "+yl3Ss9rFrSKuaY4KPaHiPEAeZAVtjqnAg6lBiYGlljWwDfKkKawTcUOpkNIkRvAAT6ioCRnOmqCJnmL+g4b34DCpbuOhPu13cVNwQkNtHEJaG/3OpJfC51isVmEazz3LbU/+H8YgydjFbx3aJr4OPMYexH4zuSxQ2qN4cCwShG7JfCs3uD9aMkim0f1B1EDiN6KRuHJg7A49CUVfGMTpg=="
+      
+      }
    ],
 
 
-"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်... ပရိုမိုးရှင်း မလိုပါ။ ဘေ ( 0 ) နဲ့ချိတ်ပါ ",
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
 
-"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်... ပရိုမိုးရှင်း မလိုပါ။ ဘေ ( 0 ) နဲ့ချိတ်ပါ "
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်..."
 
 
 
