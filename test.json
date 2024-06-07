@@ -1,7 +1,7 @@
 {
 
-"version": 18,
-"message": "ဘာတွေပြင်ထားလဲ...? \n\n ✅ VIP1 Good speed ထည့်ပေးထားပါတယ် ။ နောက်ပိုင်း လိုင်းကောင်းတဲ့ ဆာဗာ အသစ်တွေထည့်ပေးပါမယ်ဗျ။   \n ဆာဗာ အပိတ်ခံရလို့ ဖျက်ပစ်လိုက်ရတာပါ။\n နောက်ပိုင်း ဆာဗာ အသစ်တွေ အပ်ဒိတ် ပေးပါမယ်။ \n အဆင်မပြေတာရှိရင် ပြောလာလို့ရပါတယ်ဗျ။ \n VIP နေ့တိုင်းရောင်းပါတယ်။ \n 30 ရက် 70B အကန့်အသက်မရှိအကြိုက်သုံးပါ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
+"version": 19,
+"message": "ဘာတွေပြင်ထားလဲ...? \n\n ✅ VIP Good speed Game (5)ဖိုင် အသစ်ထည့်ပေးလိုက်ပါပြီ ။   \n VIP နေ့တိုင်းရောင်းပါတယ်။ \n 30 ရက် 70B အကန့်အသက်မရှိအကြိုက်သုံးပါ။ \n 👉 Update 👈 ဆိုတဲ့စာလေးကိုနှိပ့်ပြီး အခုပဲရယူလိုက်ပါ။ \n VIP အဖွဲ့ဝင်တွေအားလုံးကို ကျေးဇူးအထူးတင်ပါတယ်ခင်ဗျာ။",
 
 "files": [
 
@@ -9,7 +9,36 @@
          //server-1
          "config": "L4wNfGXw73j1ayNC40snB3F8fMxeNbZ2nGVrhvI62MYOJMQkp8MaZ/MzhINA25OF41MZy5CLnwZnH+ytXEseCchuYUYn78jMkZ+Xu+WOfbJnnzRG8vV2Af2mcb8YZAftvt2ht0JwoTP8M0mtOrWPZ05Zds3BH4VdtpHKvqViTDt96K7LaW/+sp3+OI0QNIq7SIQsWT3Nu+R4mqmt"
      
-}
+},
+
+         {
+         //server-1
+         "config": "C4C5+U47ECj7aaPATqzqZ4GCyMRMREZ8W8ONukuIkysQSrJYRlF91JWDKXuIyreU9neUrNPv2eAtRAnTeoCeV1TiwtU6DPcOSWt5h5DQppr3UNdtsZCSFsm8syenSWnK/0zrcAUCNUiJj0TncrTATqtZtShHP9R4+rIiu8L79/PMUVj64D/2z8LzeAbhTc2K3OPEJ2kDcuDs4R0e9Jgx4BCiJULwBE0srHX1eA7c1EGL96QobLE9UY7+dJlXxG5zlrG6mawSfHQ5/kNn5OnKWaeZ/+xpjmdLYhrZLvOgC/DHxN92UheA026k40+FU9FPbv72m4G2W2Rw4/BA+ULlAVaJ9f4rgq3F9V+5UX+3xXRWMlcHo8bvfNHZ5jdVmdza+3NNXZ206dj0MTQuzT9xA7HP/hfUPN9vX2zl3Ug8UqeobtwGJCzu6gEHAdQj2Plj"
+     
+},
+{
+        //server-2
+      "config": "G7dPEXlRfDSntFcyDoLttYzNleZQf6XhqY4zQahZ4VPCRUKg/2yqalR7xgMeKJZIxLD0RzQaHVht6qbRJHXViYlY0q7AzO7tbFok6VBOnAHc03NtcCbGJT4JqYVpewYPV6F90eKMn/brwaAb6/vDYi6rQ676YefSk1syDvxEmslzirq4U53Q8qV/9ZgqUAc2H1Dd3peuF7Ugril90RC7CjSimutBz5ylOYzLeo5dAEGFxkNwVJ2wfqRauk+GP0Q3ZkkWNtqbplHXE7LWStHMs8ratSBUwYN/IBiTaNxUZPJQ4qsDm0NcUA0huetj7rVnlN2jRXqKd2MTX1RYFGhDT7nQpr7FCqQA7MVZr8bv8I6ZvA5JIb7I9rlNF/R+qfeRF9h0Ae7fY+OGaSPLG0/S/tvsSI49WpVwrMw/K+IPIe8uSR6odYs24+SRWUX5Wuxe"
+      
+      },
+
+{
+        //server-3
+      "config": "UffP76DsxyQMJm2/2gdV7dVqXWBU3Ns70i8VNGmqRwQYG/ITbQz1Lz76Uu47TJHQjtF/BjLNYKoeSkiwcfpiwzZiX0kxJ1e80mj6GZeja/sSgSfbu7QqszbjyGhT2ZcA54R+pJCwH+x3KAckR2KPUBJAmMTZmA+IP3mTKdyCWGxPFr7Qp7uK/+uIRSKjFLdBK5/znggpiV8QxihK78FVn39wtm1aBSkVCg2uZAW2TBKgESiGTd7wsH9u9h4z/oDslp4KizYeMHtl9tDPW1dcWIy9AIjE+LH5uD0rurj9Rh/WyYlHbbp3AtvAfWzW9i1fniYBHnbtrZC4v8y7NUQGwVtUQ86G9qtOtowSw8i6cMbHoubcjMveE21rtjCXdZJmusKtfiN2jHLjyWUynK33WhjwMosBojPTtTnnk2TqmQiiBDH+PAt4/a5ahk1FXlm2"
+      
+      },
+
+{
+        //server-4
+      "config": "bP9yoXNX54b5bwedOOXtrWlhbTj8WSsxrpnU7+LbyBywvRO+r0vAwelng7keQkjWiyowLzYjX3Tzsl9e2YAmRc2PNjhrxV1uWRjgfC77T/fyR5BHMADsXSjbioakS+w0zYS/XQhypuSlo9MZrqPm/fs22yme0z6Lu8wlvanxaGSlCh2z7TqJmuVI1XQPW8uZNt5YOIJM09i0k5V027HGBl6FF7wurSAhk+0cOYS8sjujY+06ziNgCqEqVcQcZWOYKg/IFqehwoKn+PpRI+1WlFkyR1LW9RpdSTkalADXHz9xuk64Lx5pbJGiuJN3spMp/kDWbladyd/g6nNZW5DnK6hob3Se+x/8nNKZWqhfg0iUftrMA0y1NP/bxvX1L5mysJfVpEoYIH5aEc+h7xWiSf7+qo0EZYBvA7uzjfCO+mI5uxrSjYIeM8BcGpkliq2E"
+      
+      },
+
+{
+        //server-5
+      "config": "WE1xmwHrOq4DxaRsbphoTTMw9ztnFKCkBI9rcgKsASnHPCs7f6d99AOIC+YDdpUXTIq5+JqIX9B741++9ZHZadTTN5V4rnHrdK09qe6O89TXiPHVOTKElpjIuqSxlCWja/xd48iEMNdOVUL2cIDQYrZQwJTwv1PdoS24ysLBgV/XntA/3xu9C3Jyhyh6u/zH/Mtypo6K3QMh9lgSFWx1omgLXXS8fiG5UcPF56xeC/L9O+lBrLcU8SVk3u0uUBfUnF6ZgxOFKuQBdLZocUWiYrLpaaVj4NS5Fh+bHKqpz3xvwuGSiOE0Vf944MYvw6klb+mFLi8MfWWZUOFPO1c7yGJgOYkszxhjErS1FWhcekiS5QLlkyx888Id8Fx4s3QYYfh4hcEBgrD2hL29nCxdhPfkkNhkY+YK4XwLRG4Q7wbRk+0DX6R+O4lAt+ByZwsa"
+      
+      }
 
 
          
