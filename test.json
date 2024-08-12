@@ -1,7 +1,7 @@
 {
 
-"version": 23,
-"message": "ဘာတွေပြင်ထားလဲ...? \n Dtac Social စမတ်ပြီး ချိတ်သုံးလို့ရပါပြီ။ \n Dtac Social တစ်ရက်စမတ် *204*248#   ",
+"version": 24,
+"message": "ဘာတွေပြင်ထားလဲ...? \n Dtac Social *204*248# တစ်ရက် နဲ့ True Social *935*52# ပရို​မိုးရှင်းပြောင်း တစ်လ 50B လတိုင်းထည့်ပေးရပါမယ်။ ချိတ်သုံးလို့ရပါပြီ။  ",
 
 "files": [
 
@@ -9,10 +9,14 @@
          //server-1
          "config": "yoNOKnjvbNb5OthHMNYxRLgRacEY9EOrZCbSFzeSq/2m1e1VfnHbhSM1AMbVF2uRe0x5wI4pHZGPXgZyG/OnWTTkl5+9T08gjsN4viw+YlLo3j/MrlzN7h5KHWpO9gd7HGF9pTAYtkYpZa+hpwhdJVtGsX0gMMIMB5G6z19Tc2o1ideCoGs/m7/91I60sLsjCFfzrMOyMfB8GxyySFEjjqsVApvqQRniAbMbCX9Y76m8jt0Qur27G8bm1Pe8IvRu5U5YWQ+boYhmMC0wG7XCtVMq8UtCqRpz1Ht9RcM0+tqaWS53F9WBYjOLTppsCQ7L2Diw3y9jXAPAgs1cVR2SPHS4BtvDnrXVU2sAen6yioLsV2sKznzsGoHNGBeRbsljGIPgtIUITZLNocNDzczk4KLJU4I="
      
-}
+},
 
 
-
+{
+        //server-2
+      "config": "FgvIP/3/ZcY48t7D++48KkTfYq6r30sK3mhRlkwcnDwfHGGcK+Tcz6gIOGhYQFovrGBs/5Sjoj9PpDTmfq1f7QcrTAT0Uz0lMgj17UBTBHRUsYNRnm00sunuyd2A7QcxJuY612gLC+uQy48a2HqVLtHfddkB0oTpd30WEpJ1j8Y2e0+68pQZfTtLPFSA+xfRzKfgrRpn0n4Vv84PtaZs3EnvtlL8C+xII4WT4lIlBkDho0nLhGwBqnlW9AbiJfoO/qK0WWKkRpdFN0KRaq1Z6ymBMq3HhirGQ0rMhHIt3e/yS4dmBoNIGWsPbpnGsp8xW6q4ltYJaEqk6x2sG5ruecSwMXDIm498v086ckgGeb8buuyiVJhx7UEtiVsPSYEMMIQ2zkbziAclQmP1L4QiLUFdi4hFqvPgxpJqWEIIpNkKgIgj"
+      
+      }
 
          
    ],
